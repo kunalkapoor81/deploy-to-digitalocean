@@ -1,14 +1,10 @@
-# deploy-to-digitalocean
-Deploy a Java Gradle app to Digital Ocean 
+# Create server and deploy application on DigitalOcean
 
 
-Project:
-Create server and deploy application on DigitalOcean
+# Technologies used:
+  DigitalOcean, Linux, Java, Gradle
 
-Technologiesused:
-DigitalOcean, Linux, Java, Gradle
-
-Project Description:
+# Project Description:
 Setup and configure a server on DigitalOcean
 Create and configure a new Linux user on the Droplet
 (Security best practice)
